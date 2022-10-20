@@ -11,11 +11,11 @@ Tampilan mengedit biodata
 ![Screenshot04](img/4.jpeg) 
 # Homework
 Tampilan awal aplikasi  
-![Screenshot05](img/5.jpeg) 
+![Screenshot05](img/5.jpeg)  
 Tampilan menambahkan kata  
-![Screenshot06](img/6.jpeg) 
+![Screenshot06](img/6.jpeg)  
 Tampilan mengupdate kata  
-![Screenshot07](img/7.jpeg) 
-![Screenshot08](img/8.jpeg) 
+![Screenshot07](img/7.jpeg)  
+![Screenshot08](img/8.jpeg)  
 Tampilan menghapus kata  
-![Screenshot09](img/9.jpeg) 
+![Screenshot09](img/9.jpeg)  
